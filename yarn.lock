@@ -1251,7 +1251,10 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/activity-feed@file:./screens/activity-feed/":
+"@screens/account-settings@file:./screens/account-settings/":
+  version "1.0.0"
+
+"@screens/activity-feed@file:./screens/activity-feed":
   version "1.0.0"
 
 "@screens/add-card-details@file:./screens/add-card-details":
