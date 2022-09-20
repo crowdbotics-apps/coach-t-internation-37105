@@ -1038,6 +1038,13 @@
     react-native-emoji-selector "^0.2.0"
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
+"@modules/login@file:./modules/login/":
+  version "1.0.0"
+  dependencies:
+    "@react-navigation/native" "^5.9.2"
+    "@react-navigation/stack" "^5.14.2"
+    react-native-keyboard-aware-scroll-view "^0.9.3"
+
 "@react-native-community/cli-debugger-ui@^5.0.1":
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/@react-native-community/cli-debugger-ui/-/cli-debugger-ui-5.0.1.tgz#6b1f3367b8e5211e899983065ea2e72c1901d75f"
@@ -1217,7 +1224,7 @@
     query-string "^6.13.6"
     react-is "^16.13.0"
 
-"@react-navigation/native@^5.9.3":
+"@react-navigation/native@^5.9.2", "@react-navigation/native@^5.9.3":
   version "5.9.8"
   resolved "https://registry.yarnpkg.com/@react-navigation/native/-/native-5.9.8.tgz#ac76ee6390ea7ce807486ca5c38d903e23433a97"
   integrity sha512-DNbcDHXQPSFDLn51kkVVJjT3V7jJy2GztNYZe/2bEg29mi5QEcHHcpifjMCtyFKntAOWzKlG88UicIQ17UEghg==
@@ -1233,7 +1240,7 @@
   dependencies:
     nanoid "^3.1.15"
 
-"@react-navigation/stack@^5.14.3":
+"@react-navigation/stack@^5.14.2", "@react-navigation/stack@^5.14.3":
   version "5.14.9"
   resolved "https://registry.yarnpkg.com/@react-navigation/stack/-/stack-5.14.9.tgz#49c7b9316e6fb456e9766c901e0d607862f0ea7d"
   integrity sha512-DuvrT9P+Tz8ezZLQYxORZqOGqO+vEufaxlW1hSLw1knLD4jNxkz8TJDXtfKwaz//9gb43UhTNccNM02vm7iPqQ==
@@ -1251,7 +1258,7 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/about-the-app@file:./screens/about-the-app/":
+"@screens/about-the-app@file:./screens/about-the-app":
   version "1.0.0"
 
 "@screens/account-settings@file:./screens/account-settings":
