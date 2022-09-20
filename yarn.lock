@@ -1251,7 +1251,10 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/add-review@file:./screens/add-review/":
+"@screens/add-payment-method@file:./screens/add-payment-method/":
+  version "1.0.0"
+
+"@screens/add-review@file:./screens/add-review":
   version "1.0.0"
 
 "@screens/appointment-calendar@file:./screens/appointment-calendar":
