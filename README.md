@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-chat](modules/chat)
 - [screen-appointment-calendar-view](screens/appointment-calendar)
 - [react-native-app-menu](modules/app-menu)
+- [screen-review-add](screens/add-review)
 
 # Getting started: Frontend
 
